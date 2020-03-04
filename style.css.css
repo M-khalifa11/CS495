@@ -1,0 +1,63 @@
+body {
+  background-color: #3CBC8D;
+}
+
+form {
+  color: maroon;
+  margin-left:600px;
+  margin-right:600px;
+  
+}
+
+table{
+	background-color:LightGray;
+	
+}
+fieldset{
+	
+	 
+	 border: 2px solid LightGray;
+  border-radius: 4px;	
+}
+legend{
+	
+	background-color:LightGray;
+	border: 2px solid LightGray;
+  border-radius: 4px;	
+}
+label{
+		background-color:LightGray;
+		border: 2px solid LightGray;
+  border-radius: 4px;		
+	
+}
+
+input[type=text] {
+  border: 2px solid LightGray;
+  border-radius: 4px;
+}
+input[type=password] {
+  border: 2px solid LightGray;
+  border-radius: 4px;
+}
+input[type=submit] {
+  border: 2px solid LightGray;
+  border-radius: 4px;
+  
+  background-color: #3CBC8D; /* Green */
+  border: none;
+  color: white;
+  padding: 7px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+table{
+border: 2px solid LightGray;
+ border-radius: 4px;	
+	
+}
